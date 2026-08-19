@@ -6,6 +6,10 @@ I'm a postdoctoral researcher in the **[Bork Group](https://www.embl.org/groups/
 
 My research focuses on understanding microbial communities at global scales, with particular interests in **microbial biogeography, functional traits, and nutrient cycling**.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Ustick-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-ustick/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6261--5241-A6CE39?logo=orcid\&logoColor=white)](https://orcid.org/0000-0002-6261-5241)
+[![NFixPlanet](https://img.shields.io/badge/🌍_NFixPlanet-Website-2E8B57)](https://nfixplanet.embl.de/)
+
 ---
 
 ## 🛠️ Software
@@ -16,6 +20,7 @@ My research focuses on understanding microbial communities at global scales, wit
 
 It can be installed via **pip** or **Bioconda**.
 
+[![Website](https://img.shields.io/badge/Website-NFixPlanet-2E8B57)](https://nfixplanet.embl.de/)
 [![GitHub](https://img.shields.io/badge/GitHub-NFixPlanet-181717?logo=github)](https://github.com/grp-bork/nfixplanet)
 [![Bioconda](https://img.shields.io/badge/Bioconda-nfixplanet-43B02A)](https://bioconda.github.io/recipes/nfixplanet/README.html)
 
