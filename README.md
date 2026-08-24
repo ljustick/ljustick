@@ -9,7 +9,6 @@ My research focuses on understanding microbial communities at global scales, wit
 [![Website](https://img.shields.io/badge/🌐_Personal_Website-ljustick.github.io-4C566A)](https://ljustick.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Ustick-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-ustick/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6261--5241-A6CE39?logo=orcid\&logoColor=white)](https://orcid.org/0000-0002-6261-5241)
-[![NFixPlanet](https://img.shields.io/badge/🌍_NFixPlanet-Website-2E8B57)](https://nfixplanet.embl.de/)
 
 ---
 
